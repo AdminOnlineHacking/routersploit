@@ -113,3 +113,17 @@ Please see [LICENSE](LICENSE) for more details.
 
 # Acknowledgments
 * [riposte](https://github.com/fwkz/riposte)
+
+**This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.**
+
+Joining Telegram 
+
+Channel:- https://t.me/OnlineHacking
+
+Group:- https://t.me/OnlineHacking0
+
+                                              Inspired By github.com/AdminOnlineHacking
+
+# support me
+
+<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">

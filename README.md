@@ -33,7 +33,7 @@ Optional:
 
 ```
 apt-get install python3-pip
-git clone https://www.github.com/threat9/routersploit
+git clone https://github.com/AdminOnlineHacking/routersploit
 cd routersploit
 python3 -m pip install -r requirements.txt
 python3 rsf.py
@@ -51,7 +51,7 @@ python3 rsf.py
 ```
 sudo add-apt-repository universe
 sudo apt-get install git python3-pip
-git clone https://www.github.com/threat9/routersploit
+git clone https://github.com/AdminOnlineHacking/routersploit
 cd routersploit
 python3 -m pip install setuptools
 python3 -m pip install -r requirements.txt
@@ -69,7 +69,7 @@ python3 rsf.py
 ## Installation on OSX
 
 ```
-git clone https://www.github.com/threat9/routersploit
+git clone https://github.com/AdminOnlineHacking/routersploit
 cd routersploit
 sudo python3 -m pip install -r requirements.txt
 python3 rsf.py
@@ -78,7 +78,7 @@ python3 rsf.py
 ## Running on Docker
 
 ```
-git clone https://www.github.com/threat9/routersploit
+git clone https://github.com/AdminOnlineHacking/routersploit
 cd routersploit
 docker build -t routersploit .
 docker run -it --rm routersploit
